@@ -86,12 +86,6 @@ This codebase is only tested under a single GPU. If you want to use multiple GPU
 
 We'd appreciate it if you could report any issues you encounter.
 
-
-## Configuration Options
-
-Our approach offers various customization options to create different experimental settings. Refer to [`tutorials/configuration_options.md`](tutorials/configuration_options.md) for more details.
-
-
 ## Bibtex
 
 If you use this code for your research, please consider citing:
