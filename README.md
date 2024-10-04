@@ -8,7 +8,7 @@
 [![YouTube Video](https://img.shields.io/badge/YouTube-Video-red)](...)
 
 ## Authors
-[Zhen Zhu](https://zzhu.vision) · Weijie Lyu · [Yao Xiao](https://avaxiao.github.io) · [Derek Hoiem](http://dhoiem.cs.illinois.edu)
+[Zhen Zhu](https://zzhu.vision) · [Weijie Lyu](https://www.wlyu.me) · [Yao Xiao](https://avaxiao.github.io) · [Derek Hoiem](http://dhoiem.cs.illinois.edu)
 
 ## Overview
 
